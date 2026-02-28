@@ -1,0 +1,18 @@
+{
+  "new_title": "Sample Book",
+  "new_author": "John Doe",
+  "genre": "Fiction",
+  "themes": ["Adventure", "Mystery"],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Beginning",
+      "content": "This is the first paragraph.\n\nThis is the second paragraph."
+    },
+    {
+      "chapter_number": 2,
+      "title": "The End",
+      "content": "This is the end of the book."
+    }
+  ]
+}
